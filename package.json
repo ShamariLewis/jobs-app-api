@@ -22,7 +22,6 @@
     "mongoose": "^5.13.2",
     "swagger-ui-express": "^4.1.6",
     "xss": "^1.0.15",
-    "xss-clean": "^0.1.1",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
